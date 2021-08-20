@@ -11,14 +11,14 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/03/Pikachu-wallpaper-HD-dowload.jpg";
+  r_text[0] = "https://d.top4top.io/p_2058369i80.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝘾𝙍𝙀𝘼𝙏𝙊𝙍 RAMEEZ SER *
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝘾𝙍𝙀𝘼𝙏𝙊𝙍 RAMEEZ SER*
 *owner number wa.me/919995399396*
 
 *𝙂𝙄𝙏𝙃𝙐𝘽 𝙇𝙄𝙉𝙆      https://github.com/LIYARAMEEz/LIYARAMEE*
