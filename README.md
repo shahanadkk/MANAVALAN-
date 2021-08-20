@@ -1,7 +1,7 @@
 <div align="center">
   <img border-radius: 15px src="Liyaramee.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LIYARAMEE" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/LIYARAMEEz"><img title="Author" src="https://img.shields.io/badge/Author-LIYARAMEEz/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
