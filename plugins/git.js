@@ -19,11 +19,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Ameer Suhail*
-*owner number wa.me/919946432377*
-*bot setting video : https://youtu.be/_D4ZYuUSXjs
-*githublink       https://github.com/ameer-kallumthodi/pikachu*
-*audio commads    https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
-*sticker commads  https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*owner number wa.me/919995399396*
+
+*githublink       https://github.com/LIYARAMEEz/LIYARAMEE*
+*audio commads    https://github.com/LIYARAMEEz/LIYARAMEE/tree/master/uploads*
+*sticker commads  https://github.com/LIYARAMEEz/LIYARAMEE/tree/master/sticker*
 `}) 
 
 }));
