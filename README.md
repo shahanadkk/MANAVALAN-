@@ -83,7 +83,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/LIYARAMEEz/pikachu
-$ cd pikachu
+$ cd Liya
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -93,7 +93,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/LIYARAMEEz/pikachu
-$ cd pikachu
+$ cd LIYA
 $ chmod +x *
 $ npm i
 $ node qr.js
