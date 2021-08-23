@@ -186,8 +186,10 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Song Thapatte 🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
+            "DOWNLOADING_SONG": "\n**🎧⃟❤⃝sᴇᴀʀᴄʜɪɴɢ✰song✰﹏𝅘𝅥𝅯𝆺𝅥𝅯﹏𝄞🖤⃟❤**\n",
+            "UPLOADING_SONG": "\n*🔊𓊈𒆜UPLOADING SONG𒆜𓊉࿐🔊
+0:35 ━━●────────── -5:33
+⇆        ◁ㅤㅤ ❚❚ㅤㅤ ▷        ↻*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
