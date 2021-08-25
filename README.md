@@ -1,7 +1,7 @@
 <div align="center">
   <img border-radius: 15px src="Liyaramee.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="LIYARAMEE" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LIYARAMEE" src="https://img.shields.io/badge/LIYA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/LIYARAMEEz"><img title="Author" src="https://img.shields.io/badge/Author-LIYARAMEEz/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/LIYARAMEEz">LIYARAMEEz</a> to mak
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_rameez_muthu_123_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -57,7 +57,7 @@ Click WA logo to Join Support Group 👇
 Click LIYA logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://j.top4top.io/p_2063z42jj0.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
