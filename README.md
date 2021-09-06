@@ -1,16 +1,16 @@
 <div align="center">
-  <img border-radius: 15px src="Liyaramee.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="shahanad.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="LIYARAMEE" src="https://img.shields.io/badge/LIYA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="manavalan" src="https://img.shields.io/badge/manavalan-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/LIYARAMEEz"><img title="Author" src="https://img.shields.io/badge/Author-LIYARAMEEz/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/shahanadkk"><img title="Author" src="https://img.shields.io/badge/Author-shahanadkk/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/LIYARAMEEz">LIYARAMEEz</a> to make it public
+Project created by <a href="https://github.com/shahanadkk">shahanadkk</a> to make it public
     <br>
-       | © |
+       | Â© |
         Reserved |
     <br> 
 </p>
@@ -18,13 +18,13 @@ Project created by <a href="https://github.com/LIYARAMEEz">LIYARAMEEz</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/LIYARAMEEz/pikachu">
-    <img src="https://img.shields.io/github/repo-size/LIYARAMEEz/pikachu?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/shahanadkk/pikachu">
+    <img src="https://img.shields.io/github/repo-size/shahanadkk/pikachu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/LIYARAMEEz/followers"><img title="Followers" src="https://img.shields.io/github/followers/LIYARAMEEz?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/LIYARAMEEz/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LIYARAMEEz/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/LIYARAMEEz/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LIYARAMEEz/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/LIYARAMEEz/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LIYARAMEEz/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/shahanadkk/followers"><img title="Followers" src="https://img.shields.io/github/followers/shahanadkk?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/shahanadkk/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shahanadkk/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/shahanadkk/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shahanadkk/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/shahanadkk/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shahanadkk/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -32,29 +32,29 @@ Project created by <a href="https://github.com/LIYARAMEEz">LIYARAMEEz</a> to mak
 <p align="center">
 <a href="https://instagram.com/_rameez_muthu_123_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
 <p align="center">
 <a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LIYARAMEEz&show_icons=true&theme=nightowl" alt="LIYARAMEEz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahanadkk&show_icons=true&theme=nightowl" alt="shahanadkk" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LIYARAMEEz&theme=nightowl" alt="LIYARAMEEz" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahanadkk&theme=nightowl" alt="shahanadkk" /></p>
 </details> </div>
 
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇
+## ðŸ“¢ Guide
+Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf)
 
 ## 
-  <h3 align="center">📢 Support Group 2:</h3>
-<p align="center">
-Click LIYA logo to Join Support Group 2👇
+  <h3 align="center">ðŸ“¢ Support Group 2:</h3>
+<p align="shahand.png">
+Click manavalan logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://j.top4top.io/p_2063z42jj0.jpg" alt="kyrie.baran" height="200" width="200" /></a>
@@ -67,7 +67,7 @@ Click LIYA logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LIYARAMEEz/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shahanadkk/pikachu.git)
      </div>
 <br>
 <br >
@@ -82,8 +82,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/LIYARAMEEz/pikachu
-$ cd Liya
+$ git clone https://github.com/shahanadkk/pikachu
+$ cd manavalan
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -92,8 +92,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/LIYARAMEEz/pikachu
-$ cd LIYA
+$ git clone https://github.com/shahanadkk/pikachu
+$ cd manavalan
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -102,7 +102,7 @@ $ node bot.js
 ```
 
 
-### ⚠️ Warning! 
+### âš ï¸ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
@@ -113,10 +113,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![LIYARAMEEz](https://github.com/LIYARAMEEz.png?size=100)](https://github.com/LIYARAMEEz) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![shahanadkk](https://github.com/shahanadkk.png?size=100)](https://github.com/shahanadkk) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 ----|----|----
-[LIYARAMEEz](https://github.com/LIYARAMEEz)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[shahanadkk](https://github.com/shahanadkk)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+Base, Bug Fixes, Modules |Â Modifiying  as   public | Bug Fixes, Modules
   </div>
     
 
